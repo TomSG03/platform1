@@ -3,3 +3,6 @@
 - [x] Package
 - [x] [Node](https://github.com/TomSG03/platform-node)
 - [x] [Jsbin](https://jsbin.com/rirucigive/edit?html,console)
+
+---
+[Спискок задач](https://github.com/TomSG03/ajs-homeworks-list)
